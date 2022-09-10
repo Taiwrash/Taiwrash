@@ -1,4 +1,4 @@
-![](./prof.png)
+![](./prof.gif)
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/rasheedtaiwo/" target="_blank"> Rasheed Mudasiru </a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
@@ -84,3 +84,4 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
    
 
 [![GitHub followers](https://img.shields.io/github/followers/Taiwrash.svg?style=social&label=Follow)](https://github.com/Taiwrash?tab=followers)
+![](./prof.gif)
