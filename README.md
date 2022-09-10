@@ -1,4 +1,4 @@
-![](./Banner.png)
+![](./prof.png)
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/rasheedtaiwo/" target="_blank"> Rasheed Mudasiru </a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
