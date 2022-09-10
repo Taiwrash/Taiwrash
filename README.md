@@ -64,6 +64,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 <a href="https://twitter.com/Ibn_mudathir" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:rasheedrtm1@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/The_Bitter_Truth"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a  href="https://githubcampus.expert/Taiwrash/"><img alt="GitHub Campus Expert" src="https://img.shields.io/badge/GitHub_Campus_Expert-%230077B5?style=for-the-badge&logo=github&logoColor=white"></a>
    
 </div>   
    
@@ -79,7 +80,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Taiwrash&theme=dark" alt="Rasheed Mudasiru" /></p>
   </div>
 
- [![Taiwrash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Taiwrash&theme=xcode)](https://git.io/Taiwrash)
+ [![Taiwrash's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=Taiwrash&theme=xcode)](https://github.com/Taiwrash)
    
    
 
