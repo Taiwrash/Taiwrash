@@ -2,9 +2,9 @@
 <h1 align="center" >Hey there :wave:, I'm <a href="https://www.linkedin.com/in/rasheedtaiwo/" target="_blank"> Rasheed Mudasiru </a></h1>
 <!-- <img width="20%" align="right"   src="./passport-crop.png" > -->
 
-<h1 align="center">About Me :medal: </h1>
+<h1 align="center">About Me ⚡</h1>
 
-I am a **software engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. ⚡
+I am a **software engineer** passionate about **solving problems** using **technologies**. With my experiences in the field computing, I believe technology is the solutions to the most of the problems facing humanity. I am proud to be solving problem and **support problem solvers**. 
 
 <h3 align="center"> Web Developer | Cloud DevOps Engineer | Machine Learning | Community Dev</h3>
 
@@ -40,7 +40,6 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
     <img alt="BASH" src="https://img.shields.io/badge/Bash-27338e?style=for-the-badge&logo=Bash&logoColor=white" />
     <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
     <img alt="ReactJs" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
     <img alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
     <img alt="firebase" src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black" />
     <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -64,7 +63,7 @@ Technologies: Git, REST, BASH, Bash Scripting, Ansible, AWS, VS Code, Netlify, R
 <a href="https://twitter.com/Ibn_mudathir" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:rasheedrtm1@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 <a  href="https://t.me/The_Bitter_Truth"><img alt=" Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
-<a  href="https://githubcampus.expert/Taiwrash/"><img alt="GitHub Campus Expert" src="https://img.shields.io/badge/GitHub_Campus_Expert-%230077B5?style=for-the-badge&logo=github&logoColor=white"></a>
+<a  href="https://githubcampus.expert/Taiwrash/"><img alt="GitHub Campus Expert" src="https://img.shields.io/badge/GitHub_Campus_Expert-D14836?style=for-the-badge&logo=github&logoColor=white"></a>
    
 </div>   
    
